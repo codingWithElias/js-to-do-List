@@ -7,4 +7,4 @@
 
 [See Demo](https://eliasfsdev.github.io/js-to-do-List/)
 
-![See Demo](https://github.com/eliasFsDev/js-to-do-List/blob/master/img/f.png)
+![See Demo](https://github.com/eliasFsDev/js-to-do-List/blob/master/faveicon.PNG)
